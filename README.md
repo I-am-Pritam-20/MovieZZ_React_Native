@@ -1,2 +1,2 @@
-# Moviezz_React_Native
+# Moviezz (React_Native)
 Movie streaming platform using React Native
